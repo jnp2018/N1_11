@@ -27,9 +27,7 @@
   - Nếu sự kiện không hợp lệ (VD: ghế đã được đặt,…) thì quay lại bước 2
   - Xác định xem khách hàng có xác nhận hành động đặt vé và thanh toán không?
   - Nếu khách hàng từ chối xác nhận thì kết thúc chương trình
-  - Xác minh từ chối thủ công
   - Gửi email chứa mã vé về email khách hàng đăng ký
-  - Xác nhận chấp nhận thủ công
   - Cập nhật lại dữ liệu trong cơ sở dữ liệu
   - Kết thúc quy trình
 
