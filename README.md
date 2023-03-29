@@ -34,5 +34,6 @@
   - Kết thúc quy trình
 
 3,Thành phần dịch vụ Đặt vé xem phim
+
  ![Picture2](https://user-images.githubusercontent.com/101632970/228396255-a7a697c9-c32c-49fd-8a1f-a122700b8db9.png)
 
