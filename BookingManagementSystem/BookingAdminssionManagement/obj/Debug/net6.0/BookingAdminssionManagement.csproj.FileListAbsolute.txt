@@ -1,0 +1,66 @@
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\appsettings.Development.json
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\appsettings.json
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.exe
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.deps.json
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.runtimeconfig.json
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.dll
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.pdb
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.csproj.AssemblyReference.cache
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.GeneratedMSBuildEditorConfig.editorconfig
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.AssemblyInfoInputs.cache
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.AssemblyInfo.cs
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.csproj.CoreCompileInputs.cache
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.MvcApplicationPartsAssemblyInfo.cs
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.MvcApplicationPartsAssemblyInfo.cache
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.BookingAdminssionManagement.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.BookingAdminssionManagement.props
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookingAdminssionManagement.props
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookingAdminssionManagement.props
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets.pack.json
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets.build.json
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets.development.json
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\scopedcss\bundle\BookingAdminssionManagement.styles.css
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.csproj.CopyComplete
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.dll
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\refint\BookingAdminssionManagement.dll
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.pdb
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.genruntimeconfig.cache
+H:\Hướng dịch vụ\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\ref\BookingAdminssionManagement.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.exe
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.deps.json
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.runtimeconfig.json
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\BookingAdminssionManagement.pdb
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.BookingAdminssionManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.build.BookingAdminssionManagement.props
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookingAdminssionManagement.props
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookingAdminssionManagement.props
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\scopedcss\bundle\BookingAdminssionManagement.styles.css
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.csproj.CopyComplete
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\refint\BookingAdminssionManagement.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.pdb
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\BookingAdminssionManagement.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\obj\Debug\net6.0\ref\BookingAdminssionManagement.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\Dapper.dll
+C:\Users\Administrator\Downloads\BookingManagementSystem\BookingAdminssionManagement\bin\Debug\net6.0\MySqlConnector.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R3P1pkCSdjgSGF5WUx0o5KSf0STDyCVhS2M4zHUlLTY=",
+  "Source": "BookingAPIGateway",
+  "BasePath": "_content/BookingAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
